@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif;
+    
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+main{
+    margin: 1%;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 27%;
+  
+
+}
+input{
+    border-color: blueviolet;
+    margin-top: 20px;
+    height: 20px;
+    border-radius: 15px;
+    font-size: 15px;
+    
+}
